@@ -3,8 +3,10 @@
 <h1> Crear Cuenta </h1>
 
 <%= form_for (@usuario) do |u| %>
-    
-   <%= u.label :apodo 'Ingrese su correo electrónico para recibir avisos!' %> 
+
+
+   <%= u.label :Ingrese su correo electrónico para recibir notificaciones %>  
+   <%= u.label :apodo %> 
    <%= u.text_field :apodo %>
 
    <%= u.label :password %>
