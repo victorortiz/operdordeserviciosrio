@@ -11931,3 +11931,275 @@ Migrating to CreateUsuarios (20140313224208)
   [1m[35m (0.1ms)[0m  select sqlite_version(*)
   [1m[36m (0.1ms)[0m  [1mSELECT "schema_migrations"."version" FROM "schema_migrations" [0m
 Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Processing by PagesController#bienvenido as HTML
+  Rendered pages/bienvenido.html.erb within layouts/application (2.1ms)
+  Rendered layouts/_header.html.erb (1.2ms)
+  Rendered layouts/_message.html.erb (0.5ms)
+  Rendered layouts/_footer.html.erb (0.3ms)
+Completed 200 OK in 107ms (Views: 106.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Processing by PagesController#bienvenido as HTML
+  Rendered pages/bienvenido.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (1.6ms)
+  Rendered layouts/_message.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 67ms (Views: 66.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/scaffolds.css?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /scaffolds.css - 200 OK (2ms)
+
+
+Started GET "/assets/comentarios.css?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /comentarios.css - 200 OK (2ms)
+
+
+Started GET "/assets/articulos.css?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /articulos.css - 200 OK (1ms)
+
+
+Started GET "/assets/foundation_and_overrides.css?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation_and_overrides.css - 200 OK (7ms)
+
+
+Started GET "/assets/pages.css?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /pages.css - 200 OK (3ms)
+
+
+Started GET "/assets/sessions.css?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /sessions.css - 200 OK (4ms)
+
+
+Started GET "/assets/vendor/modernizr.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /vendor/modernizr.js - 200 OK (31ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /jquery.js - 200 OK (2ms)
+
+
+Started GET "/assets/usuarios.css?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /usuarios.css - 200 OK (1ms)
+
+
+Started GET "/assets/foundation/foundation.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.js - 200 OK (1ms)
+
+
+Started GET "/assets/foundation/foundation.abide.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.abide.js - 200 OK (1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /jquery_ujs.js - 200 OK (1ms)
+
+
+Started GET "/assets/foundation/foundation.accordion.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.accordion.js - 200 OK (3ms)
+
+
+Started GET "/assets/foundation/foundation.alert.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.alert.js - 200 OK (4ms)
+
+
+Started GET "/assets/foundation/foundation.clearing.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.clearing.js - 200 OK (1ms)
+
+
+Started GET "/assets/foundation/foundation.dropdown.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.dropdown.js - 200 OK (2ms)
+
+
+Started GET "/assets/foundation/foundation.interchange.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.interchange.js - 200 OK (2ms)
+
+
+Started GET "/assets/foundation/foundation.joyride.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.joyride.js - 200 OK (1ms)
+
+
+Started GET "/assets/foundation/foundation.magellan.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.magellan.js - 200 OK (2ms)
+
+
+Started GET "/assets/foundation/foundation.offcanvas.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.offcanvas.js - 200 OK (2ms)
+
+
+Started GET "/assets/foundation/foundation.reveal.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.reveal.js - 200 OK (3ms)
+
+
+Started GET "/assets/foundation/foundation.orbit.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.orbit.js - 200 OK (2ms)
+
+
+Started GET "/assets/foundation/foundation.tab.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.tab.js - 200 OK (2ms)
+
+
+Started GET "/assets/foundation/foundation.tooltip.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.tooltip.js - 200 OK (2ms)
+
+
+Started GET "/assets/foundation/foundation.topbar.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.topbar.js - 200 OK (4ms)
+
+
+Started GET "/assets/foundation/foundation.equalizer.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation/foundation.equalizer.js - 200 OK (1ms)
+
+
+Started GET "/assets/foundation.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /foundation.js - 200 OK (23ms)
+
+
+Started GET "/assets/articulos.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /articulos.js - 200 OK (1ms)
+
+
+Started GET "/assets/comentarios.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /comentarios.js - 200 OK (1ms)
+
+
+Started GET "/assets/pages.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /pages.js - 200 OK (1ms)
+
+
+Started GET "/assets/sessions.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /sessions.js - 200 OK (1ms)
+
+
+Started GET "/assets/usuarios.js?body=1" for 127.0.0.1 at 2014-05-27 14:21:42 -0700
+Served asset /usuarios.js - 200 OK (1ms)
+
+
+Started GET "/articulos" for 127.0.0.1 at 2014-05-27 14:21:53 -0700
+Processing by ArticulosController#index as HTML
+  [1m[36mArticulo Load (0.1ms)[0m  [1mSELECT "articulos".* FROM "articulos" ORDER BY articulos.created_at DESC[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 4
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 3[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 2
+  Rendered articulos/index.html.erb within layouts/application (64.5ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_message.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 125ms (Views: 99.9ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/articulos" for 127.0.0.1 at 2014-05-27 14:30:15 -0700
+Processing by ArticulosController#index as HTML
+  [1m[36mArticulo Load (0.2ms)[0m  [1mSELECT "articulos".* FROM "articulos" ORDER BY articulos.created_at DESC[0m
+  [1m[35m (0.3ms)[0m  SELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 4
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 3[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 2
+  Rendered articulos/index.html.erb within layouts/application (9.5ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_message.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 51ms (Views: 48.5ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/victor" for 127.0.0.1 at 2014-05-27 14:30:17 -0700
+Processing by SessionsController#new as HTML
+  Rendered sessions/new.html.erb within layouts/application (1.4ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_message.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 63ms (Views: 62.2ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/entrar" for 127.0.0.1 at 2014-05-27 14:30:20 -0700
+Processing by SessionsController#create as HTML
+  Parameters: {"utf8"=>"✓", "authenticity_token"=>"D8WN7gdiaecxoX96IcUIGwBiEX1vDEbOsmCB488bz44=", "apodo"=>"victordortizg@gmail.com", "password"=>"[FILTERED]", "commit"=>"Entrar"}
+  [1m[36mUsuario Load (0.2ms)[0m  [1mSELECT "usuarios".* FROM "usuarios" WHERE "usuarios"."apodo" = 'victordortizg@gmail.com' LIMIT 1[0m
+Redirected to http://localhost:3000/
+Completed 302 Found in 115ms (ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 14:30:20 -0700
+Processing by PagesController#bienvenido as HTML
+  Rendered pages/bienvenido.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.html.erb (0.6ms)
+  Rendered layouts/_message.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 35ms (Views: 35.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articulos/new" for 127.0.0.1 at 2014-05-27 14:30:22 -0700
+Processing by ArticulosController#new as HTML
+  Rendered articulos/_form.html.erb (10.3ms)
+  Rendered articulos/new.html.erb within layouts/application (11.9ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_message.html.erb (0.1ms)
+  Rendered layouts/_footer.html.erb (0.1ms)
+Completed 200 OK in 53ms (Views: 51.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articulos" for 127.0.0.1 at 2014-05-27 14:30:24 -0700
+Processing by ArticulosController#index as HTML
+  [1m[35mArticulo Load (0.2ms)[0m  SELECT "articulos".* FROM "articulos" ORDER BY articulos.created_at DESC
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 4[0m
+  [1m[35m (0.1ms)[0m  SELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 3
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 2[0m
+  Rendered articulos/index.html.erb within layouts/application (8.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_message.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 69ms (Views: 67.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 14:30:26 -0700
+Processing by PagesController#bienvenido as HTML
+  Rendered pages/bienvenido.html.erb within layouts/application (0.3ms)
+  Rendered layouts/_header.html.erb (0.7ms)
+  Rendered layouts/_message.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 44ms (Views: 44.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articulos" for 127.0.0.1 at 2014-05-27 14:32:31 -0700
+Processing by ArticulosController#index as HTML
+  [1m[35mArticulo Load (0.3ms)[0m  SELECT "articulos".* FROM "articulos" ORDER BY articulos.created_at DESC
+  [1m[36m (0.1ms)[0m  [1mSELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 4[0m
+  [1m[35m (0.2ms)[0m  SELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 3
+  [1m[36m (0.2ms)[0m  [1mSELECT COUNT(*) FROM "comentarios" WHERE "comentarios"."articulo_id" = 2[0m
+  Rendered articulos/index.html.erb within layouts/application (5.3ms)
+  Rendered layouts/_header.html.erb (0.4ms)
+  Rendered layouts/_message.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 77ms (Views: 74.4ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 14:32:34 -0700
+Processing by PagesController#bienvenido as HTML
+  Rendered pages/bienvenido.html.erb within layouts/application (0.4ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_message.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 43ms (Views: 42.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/articulos/new" for 127.0.0.1 at 2014-05-27 14:32:36 -0700
+Processing by ArticulosController#new as HTML
+  Rendered articulos/_form.html.erb (1.7ms)
+  Rendered articulos/new.html.erb within layouts/application (2.5ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_message.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 61ms (Views: 59.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2014-05-27 14:32:38 -0700
+Processing by PagesController#bienvenido as HTML
+  Rendered pages/bienvenido.html.erb within layouts/application (0.2ms)
+  Rendered layouts/_header.html.erb (0.5ms)
+  Rendered layouts/_message.html.erb (0.0ms)
+  Rendered layouts/_footer.html.erb (0.0ms)
+Completed 200 OK in 45ms (Views: 44.7ms | ActiveRecord: 0.0ms)
