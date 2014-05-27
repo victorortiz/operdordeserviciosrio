@@ -1,0 +1,29 @@
+<h1>Listing comentarios</h1>
+
+<table>
+  <tr>
+    <th>Contenido</th>
+    <th>Articulo</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @comentarios.each do |comentario| %>
+  <tr>
+    <td><%= comentario.contenido %></td>
+    <td><%= comentario.articulo_id %></td>
+<<<<<<< HEAD
+    <td><%= link_to 'Show', [@articulo, comentario] %></td>
+    <td><%= link_to 'Edit', edit_articulo_comentario_path(@articulo, comentario) %></td>
+    <td><%= link_to 'Destroy', [@articulo, comentario], confirm: 'Are you sure?', method: :delete %></td>
+
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+
+<%= link_to 'New Comentario', new_articulo_comentario_path %>
+

@@ -1,0 +1,17 @@
+<div class="row">
+	<div class="large-12 columns">
+<h1> Crear Cuenta </h1>
+
+<%= form_for (@usuario) do |u| %>
+    
+   <%= u.label :apodo %> 
+   <%= u.text_field :apodo %>
+
+   <%= u.label :password %>
+   <%= u.password_field :password %>
+
+   <%= u.submit 'Crear Usuario' %>
+
+ <% end %>
+</div>
+</div>

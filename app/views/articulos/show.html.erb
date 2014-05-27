@@ -1,0 +1,27 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Titulo:</b>
+  <%= @articulo.titulo %>
+</p>
+
+<p>
+  <b>Cuerpo:</b>
+  <%= @articulo.cuerpo %>
+</p>
+
+<% @articulo.comentarios.each do |comentario| %>
+<p>
+<%= comentario.contenido %>
+<%= time_ago_in_words(comentario.created_at) %> 
+</p>
+<% end %>
+
+<p>
+<%= link_to 'Agrega Comentario', new_articulo_comentario_path(@articulo)%>
+</p>
+
+<p>
+<%= link_to 'Editar', edit_articulo_path(@articulo) %> |
+<%= link_to 'Regresar', articulos_path %>
+</p>

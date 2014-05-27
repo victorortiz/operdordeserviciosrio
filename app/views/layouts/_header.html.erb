@@ -1,0 +1,25 @@
+<nav class="top-bar" data-topbar> 
+	<ul class="title-area"> <li class="name"> 
+		<h1><a href="#">Ss-Buzón de sugerencias</a></h1> 
+	</li> <li class="toggle-topbar menu-icon"><a href="#">Menu</a></li> 
+</ul> 
+<section class="top-bar-section"> 
+	<!-- Right Nav Section --> 
+	<ul class="right"> 
+		<li><%= link_to 'Inicio', root_path %></li> 
+		
+		<li><%= link_to 'Todos los mensajes', articulos_path %></li> 
+
+		<% if !logged_in? %>
+		<li><%= link_to 'Entrar', victor_path %></li> 
+		<li><%= link_to 'Crear Cuenta', new_usuario_path %></li>
+		<% end %>
+		<% if logged_in? %>
+		<li><%= link_to 'Nueva sugerencia', new_articulo_path %></li> 
+        <li><%= link_to 'Salir', logout_path %></li>
+         <% end %>
+
+	   </ul> 
+
+	</section> 
+</nav>

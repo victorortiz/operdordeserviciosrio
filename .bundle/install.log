@@ -1,0 +1,217 @@
+# Logfile created on 2014-05-27 13:55:32 -0700 by logger.rb/41954
+I, [2014-05-27T13:55:32.717427 #30127]  INFO -- : 0:  rake (10.1.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rake-10.1.1.gemspec
+I, [2014-05-27T13:55:32.717807 #30127]  INFO -- : 0:  i18n (0.6.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/i18n-0.6.1.gemspec
+I, [2014-05-27T13:55:32.718037 #30127]  INFO -- : 0:  multi_json (1.9.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/multi_json-1.9.0.gemspec
+I, [2014-05-27T13:55:32.718318 #30127]  INFO -- : 0:  activesupport (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activesupport-3.2.13.gemspec
+I, [2014-05-27T13:55:32.718579 #30127]  INFO -- : 0:  builder (3.0.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/builder-3.0.4.gemspec
+I, [2014-05-27T13:55:32.718840 #30127]  INFO -- : 0:  activemodel (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activemodel-3.2.13.gemspec
+I, [2014-05-27T13:55:32.719093 #30127]  INFO -- : 0:  erubis (2.7.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/erubis-2.7.0.gemspec
+I, [2014-05-27T13:55:32.719346 #30127]  INFO -- : 0:  journey (1.0.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/journey-1.0.4.gemspec
+I, [2014-05-27T13:55:32.719605 #30127]  INFO -- : 0:  rack (1.4.5) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-1.4.5.gemspec
+I, [2014-05-27T13:55:32.719863 #30127]  INFO -- : 0:  rack-cache (1.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-cache-1.2.gemspec
+I, [2014-05-27T13:55:32.720167 #30127]  INFO -- : 0:  rack-test (0.6.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-test-0.6.2.gemspec
+I, [2014-05-27T13:55:32.720428 #30127]  INFO -- : 0:  hike (1.2.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/hike-1.2.3.gemspec
+I, [2014-05-27T13:55:32.720685 #30127]  INFO -- : 0:  tilt (1.4.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/tilt-1.4.1.gemspec
+I, [2014-05-27T13:55:32.720911 #30127]  INFO -- : 0:  sprockets (2.2.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sprockets-2.2.2.gemspec
+I, [2014-05-27T13:55:32.721171 #30127]  INFO -- : 0:  actionpack (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/actionpack-3.2.13.gemspec
+I, [2014-05-27T13:55:32.721431 #30127]  INFO -- : 0:  mime-types (1.25.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/mime-types-1.25.1.gemspec
+I, [2014-05-27T13:55:32.721685 #30127]  INFO -- : 0:  polyglot (0.3.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/polyglot-0.3.4.gemspec
+I, [2014-05-27T13:55:32.721943 #30127]  INFO -- : 0:  treetop (1.4.15) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/treetop-1.4.15.gemspec
+I, [2014-05-27T13:55:32.722205 #30127]  INFO -- : 0:  mail (2.5.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/mail-2.5.4.gemspec
+I, [2014-05-27T13:55:32.722464 #30127]  INFO -- : 0:  actionmailer (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/actionmailer-3.2.13.gemspec
+I, [2014-05-27T13:55:32.722725 #30127]  INFO -- : 0:  arel (3.0.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/arel-3.0.3.gemspec
+I, [2014-05-27T13:55:32.722995 #30127]  INFO -- : 0:  tzinfo (0.3.39) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/tzinfo-0.3.39.gemspec
+I, [2014-05-27T13:55:32.723255 #30127]  INFO -- : 0:  activerecord (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activerecord-3.2.13.gemspec
+I, [2014-05-27T13:55:32.723508 #30127]  INFO -- : 0:  activeresource (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activeresource-3.2.13.gemspec
+I, [2014-05-27T13:55:32.723767 #30127]  INFO -- : 0:  bcrypt-ruby (3.0.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/bcrypt-ruby-3.0.1.gemspec
+I, [2014-05-27T13:55:32.724027 #30127]  INFO -- : 0:  coffee-script-source (1.7.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-05-27T13:55:32.724340 #30127]  INFO -- : 0:  execjs (2.0.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/execjs-2.0.2.gemspec
+I, [2014-05-27T13:55:32.724593 #30127]  INFO -- : 0:  coffee-script (2.2.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-script-2.2.0.gemspec
+I, [2014-05-27T13:55:32.724853 #30127]  INFO -- : 0:  rack-ssl (1.3.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-ssl-1.3.3.gemspec
+I, [2014-05-27T13:55:32.725110 #30127]  INFO -- : 0:  json (1.8.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/json-1.8.1.gemspec
+I, [2014-05-27T13:55:32.725372 #30127]  INFO -- : 0:  rdoc (3.12.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rdoc-3.12.2.gemspec
+I, [2014-05-27T13:55:32.725630 #30127]  INFO -- : 0:  thor (0.18.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/thor-0.18.1.gemspec
+I, [2014-05-27T13:55:32.725886 #30127]  INFO -- : 0:  railties (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/railties-3.2.13.gemspec
+I, [2014-05-27T13:55:32.726165 #30127]  INFO -- : 0:  coffee-rails (3.2.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-rails-3.2.2.gemspec
+I, [2014-05-27T13:55:32.726419 #30127]  INFO -- : 0:  daemons (1.1.9) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/daemons-1.1.9.gemspec
+I, [2014-05-27T13:55:32.726669 #30127]  INFO -- : 0:  eventmachine (1.0.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/eventmachine-1.0.3.gemspec
+I, [2014-05-27T13:55:32.726926 #30127]  INFO -- : 0:  sass (3.3.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sass-3.3.0.gemspec
+I, [2014-05-27T13:55:32.727175 #30127]  INFO -- : 0:  foundation-rails (5.2.0.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/foundation-rails-5.2.0.0.gemspec
+I, [2014-05-27T13:55:32.727433 #30127]  INFO -- : 0:  jquery-rails (3.1.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-05-27T13:55:32.728565 #30127]  INFO -- : 0:  pdfkit (0.6.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/pdfkit-0.6.1.gemspec
+E, [2014-05-27T13:55:33.468575 #30127] ERROR -- : Gem::Ext::BuildError: ERROR: Failed to build gem native extension.
+
+    /Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/bin/ruby extconf.rb 
+checking for pg_config... no
+No pg_config... trying anyway. If building fails, please try again with
+ --with-pg-config=/path/to/pg_config
+checking for libpq-fe.h... no
+Can't find the 'libpq-fe.h header
+*** extconf.rb failed ***
+Could not create Makefile due to some reason, probably lack of necessary
+libraries and/or headers.  Check the mkmf.log file for more details.  You may
+need configuration options.
+
+Provided configuration options:
+	--with-opt-dir
+	--without-opt-dir
+	--with-opt-include
+	--without-opt-include=${opt-dir}/include
+	--with-opt-lib
+	--without-opt-lib=${opt-dir}/lib
+	--with-make-prog
+	--without-make-prog
+	--srcdir=.
+	--curdir
+	--ruby=/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/bin/ruby
+	--with-pg
+	--without-pg
+	--with-pg-config
+	--without-pg-config
+	--with-pg_config
+	--without-pg_config
+	--with-pg-dir
+	--without-pg-dir
+	--with-pg-include
+	--without-pg-include=${pg-dir}/include
+	--with-pg-lib
+	--without-pg-lib=${pg-dir}/
+
+extconf failed, exit code 1
+
+Gem files will remain installed in /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/gems/pg-0.17.1 for inspection.
+Results logged to /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/extensions/x86_64-darwin-12/2.0.0-static/pg-0.17.1/gem_make.out
+
+/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:89:in `run'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:38:in `block in build'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/tempfile.rb:324:in `open'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/ext_conf_builder.rb:17:in `build'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:161:in `block (2 levels) in build_extension'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `chdir'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:160:in `block in build_extension'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `synchronize'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:159:in `build_extension'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:198:in `block in build_extensions'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `each'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/ext/builder.rb:195:in `build_extensions'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:677:in `build_extensions'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/site_ruby/2.0.0/rubygems/installer.rb:232:in `install'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:101:in `block in install'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:118:in `preserve_paths'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/source/rubygems.rb:94:in `install'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:111:in `block in install_gem_from_spec'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/rubygems_integration.rb:150:in `with_build_args'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:110:in `install_gem_from_spec'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:295:in `block in install_sequentially'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Users/victorortiz/.rvm/rubies/ruby-2.0.0-p353/lib/ruby/2.0.0/forwardable.rb:171:in `each'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:294:in `install_sequentially'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:97:in `run'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/installer.rb:15:in `install'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/cli.rb:257:in `install'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/command.rb:27:in `run'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/invocation.rb:120:in `invoke_command'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor.rb:363:in `dispatch'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/vendor/thor/base.rb:438:in `start'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/cli.rb:10:in `start'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/bin/bundle:22:in `block in <top (required)>'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/lib/bundler/friendly_errors.rb:5:in `with_friendly_errors'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/gems/bundler-1.5.1/bin/bundle:22:in `<top (required)>'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:23:in `load'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/bin/bundle:23:in `<main>'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/bin/ruby_executable_hooks:15:in `eval'  \n/Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/bin/ruby_executable_hooks:15:in `<main>'
+I, [2014-05-27T13:55:47.120311 #30137]  INFO -- : 0:  rake (10.1.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rake-10.1.1.gemspec
+I, [2014-05-27T13:55:47.120942 #30137]  INFO -- : 0:  i18n (0.6.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/i18n-0.6.1.gemspec
+I, [2014-05-27T13:55:47.121346 #30137]  INFO -- : 0:  multi_json (1.9.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/multi_json-1.9.0.gemspec
+I, [2014-05-27T13:55:47.121724 #30137]  INFO -- : 0:  activesupport (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activesupport-3.2.13.gemspec
+I, [2014-05-27T13:55:47.122077 #30137]  INFO -- : 0:  builder (3.0.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/builder-3.0.4.gemspec
+I, [2014-05-27T13:55:47.122414 #30137]  INFO -- : 0:  activemodel (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activemodel-3.2.13.gemspec
+I, [2014-05-27T13:55:47.122759 #30137]  INFO -- : 0:  erubis (2.7.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/erubis-2.7.0.gemspec
+I, [2014-05-27T13:55:47.123098 #30137]  INFO -- : 0:  journey (1.0.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/journey-1.0.4.gemspec
+I, [2014-05-27T13:55:47.123453 #30137]  INFO -- : 0:  rack (1.4.5) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-1.4.5.gemspec
+I, [2014-05-27T13:55:47.123808 #30137]  INFO -- : 0:  rack-cache (1.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-cache-1.2.gemspec
+I, [2014-05-27T13:55:47.124454 #30137]  INFO -- : 0:  rack-test (0.6.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-test-0.6.2.gemspec
+I, [2014-05-27T13:55:47.124799 #30137]  INFO -- : 0:  hike (1.2.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/hike-1.2.3.gemspec
+I, [2014-05-27T13:55:47.125156 #30137]  INFO -- : 0:  tilt (1.4.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/tilt-1.4.1.gemspec
+I, [2014-05-27T13:55:47.125651 #30137]  INFO -- : 0:  sprockets (2.2.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sprockets-2.2.2.gemspec
+I, [2014-05-27T13:55:47.126121 #30137]  INFO -- : 0:  actionpack (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/actionpack-3.2.13.gemspec
+I, [2014-05-27T13:55:47.126484 #30137]  INFO -- : 0:  mime-types (1.25.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/mime-types-1.25.1.gemspec
+I, [2014-05-27T13:55:47.126828 #30137]  INFO -- : 0:  polyglot (0.3.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/polyglot-0.3.4.gemspec
+I, [2014-05-27T13:55:47.127267 #30137]  INFO -- : 0:  treetop (1.4.15) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/treetop-1.4.15.gemspec
+I, [2014-05-27T13:55:47.127622 #30137]  INFO -- : 0:  mail (2.5.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/mail-2.5.4.gemspec
+I, [2014-05-27T13:55:47.128120 #30137]  INFO -- : 0:  actionmailer (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/actionmailer-3.2.13.gemspec
+I, [2014-05-27T13:55:47.128480 #30137]  INFO -- : 0:  arel (3.0.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/arel-3.0.3.gemspec
+I, [2014-05-27T13:55:47.128853 #30137]  INFO -- : 0:  tzinfo (0.3.39) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/tzinfo-0.3.39.gemspec
+I, [2014-05-27T13:55:47.129222 #30137]  INFO -- : 0:  activerecord (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activerecord-3.2.13.gemspec
+I, [2014-05-27T13:55:47.129568 #30137]  INFO -- : 0:  activeresource (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activeresource-3.2.13.gemspec
+I, [2014-05-27T13:55:47.129903 #30137]  INFO -- : 0:  bcrypt-ruby (3.0.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/bcrypt-ruby-3.0.1.gemspec
+I, [2014-05-27T13:55:47.130655 #30137]  INFO -- : 0:  coffee-script-source (1.7.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-05-27T13:55:47.131131 #30137]  INFO -- : 0:  execjs (2.0.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/execjs-2.0.2.gemspec
+I, [2014-05-27T13:55:47.131578 #30137]  INFO -- : 0:  coffee-script (2.2.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-script-2.2.0.gemspec
+I, [2014-05-27T13:55:47.131909 #30137]  INFO -- : 0:  rack-ssl (1.3.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-ssl-1.3.3.gemspec
+I, [2014-05-27T13:55:47.132266 #30137]  INFO -- : 0:  json (1.8.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/json-1.8.1.gemspec
+I, [2014-05-27T13:55:47.132623 #30137]  INFO -- : 0:  rdoc (3.12.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rdoc-3.12.2.gemspec
+I, [2014-05-27T13:55:47.132974 #30137]  INFO -- : 0:  thor (0.18.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/thor-0.18.1.gemspec
+I, [2014-05-27T13:55:47.133322 #30137]  INFO -- : 0:  railties (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/railties-3.2.13.gemspec
+I, [2014-05-27T13:55:47.133669 #30137]  INFO -- : 0:  coffee-rails (3.2.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-rails-3.2.2.gemspec
+I, [2014-05-27T13:55:47.134009 #30137]  INFO -- : 0:  sass (3.3.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sass-3.3.0.gemspec
+I, [2014-05-27T13:55:47.134352 #30137]  INFO -- : 0:  foundation-rails (5.2.0.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/foundation-rails-5.2.0.0.gemspec
+I, [2014-05-27T13:55:47.134879 #30137]  INFO -- : 0:  jquery-rails (3.1.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-05-27T13:55:47.135327 #30137]  INFO -- : 0:  pdfkit (0.6.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/pdfkit-0.6.1.gemspec
+I, [2014-05-27T13:55:47.135835 #30137]  INFO -- : 0:  bundler (1.5.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-05-27T13:55:47.136203 #30137]  INFO -- : 0:  rails (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rails-3.2.13.gemspec
+I, [2014-05-27T13:55:47.136544 #30137]  INFO -- : 0:  sass-rails (3.2.6) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sass-rails-3.2.6.gemspec
+I, [2014-05-27T13:55:47.136897 #30137]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sqlite3-1.3.9.gemspec
+I, [2014-05-27T13:55:47.137252 #30137]  INFO -- : 0:  uglifier (2.4.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/uglifier-2.4.0.gemspec
+I, [2014-05-27T13:55:47.137597 #30137]  INFO -- : 0:  wkhtmltopdf-binary (0.9.9.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/wkhtmltopdf-binary-0.9.9.1.gemspec
+I, [2014-05-27T13:56:01.526026 #30138]  INFO -- : 0:  rake (10.1.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rake-10.1.1.gemspec
+I, [2014-05-27T13:56:01.526375 #30138]  INFO -- : 0:  i18n (0.6.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/i18n-0.6.1.gemspec
+I, [2014-05-27T13:56:01.526637 #30138]  INFO -- : 0:  multi_json (1.9.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/multi_json-1.9.0.gemspec
+I, [2014-05-27T13:56:01.526887 #30138]  INFO -- : 0:  activesupport (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activesupport-3.2.13.gemspec
+I, [2014-05-27T13:56:01.527102 #30138]  INFO -- : 0:  builder (3.0.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/builder-3.0.4.gemspec
+I, [2014-05-27T13:56:01.527324 #30138]  INFO -- : 0:  activemodel (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activemodel-3.2.13.gemspec
+I, [2014-05-27T13:56:01.527587 #30138]  INFO -- : 0:  erubis (2.7.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/erubis-2.7.0.gemspec
+I, [2014-05-27T13:56:01.527798 #30138]  INFO -- : 0:  journey (1.0.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/journey-1.0.4.gemspec
+I, [2014-05-27T13:56:01.528016 #30138]  INFO -- : 0:  rack (1.4.5) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-1.4.5.gemspec
+I, [2014-05-27T13:56:01.528229 #30138]  INFO -- : 0:  rack-cache (1.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-cache-1.2.gemspec
+I, [2014-05-27T13:56:01.528441 #30138]  INFO -- : 0:  rack-test (0.6.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-test-0.6.2.gemspec
+I, [2014-05-27T13:56:01.528675 #30138]  INFO -- : 0:  hike (1.2.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/hike-1.2.3.gemspec
+I, [2014-05-27T13:56:01.528960 #30138]  INFO -- : 0:  tilt (1.4.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/tilt-1.4.1.gemspec
+I, [2014-05-27T13:56:01.529246 #30138]  INFO -- : 0:  sprockets (2.2.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sprockets-2.2.2.gemspec
+I, [2014-05-27T13:56:01.529524 #30138]  INFO -- : 0:  actionpack (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/actionpack-3.2.13.gemspec
+I, [2014-05-27T13:56:01.529806 #30138]  INFO -- : 0:  mime-types (1.25.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/mime-types-1.25.1.gemspec
+I, [2014-05-27T13:56:01.530085 #30138]  INFO -- : 0:  polyglot (0.3.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/polyglot-0.3.4.gemspec
+I, [2014-05-27T13:56:01.530365 #30138]  INFO -- : 0:  treetop (1.4.15) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/treetop-1.4.15.gemspec
+I, [2014-05-27T13:56:01.530643 #30138]  INFO -- : 0:  mail (2.5.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/mail-2.5.4.gemspec
+I, [2014-05-27T13:56:01.530870 #30138]  INFO -- : 0:  actionmailer (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/actionmailer-3.2.13.gemspec
+I, [2014-05-27T13:56:01.531142 #30138]  INFO -- : 0:  arel (3.0.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/arel-3.0.3.gemspec
+I, [2014-05-27T13:56:01.531407 #30138]  INFO -- : 0:  tzinfo (0.3.39) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/tzinfo-0.3.39.gemspec
+I, [2014-05-27T13:56:01.531666 #30138]  INFO -- : 0:  activerecord (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activerecord-3.2.13.gemspec
+I, [2014-05-27T13:56:01.531928 #30138]  INFO -- : 0:  activeresource (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activeresource-3.2.13.gemspec
+I, [2014-05-27T13:56:01.532192 #30138]  INFO -- : 0:  bcrypt-ruby (3.0.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/bcrypt-ruby-3.0.1.gemspec
+I, [2014-05-27T13:56:01.532468 #30138]  INFO -- : 0:  coffee-script-source (1.7.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-05-27T13:56:01.532747 #30138]  INFO -- : 0:  execjs (2.0.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/execjs-2.0.2.gemspec
+I, [2014-05-27T13:56:01.532959 #30138]  INFO -- : 0:  coffee-script (2.2.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-script-2.2.0.gemspec
+I, [2014-05-27T13:56:01.533218 #30138]  INFO -- : 0:  rack-ssl (1.3.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-ssl-1.3.3.gemspec
+I, [2014-05-27T13:56:01.533480 #30138]  INFO -- : 0:  json (1.8.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/json-1.8.1.gemspec
+I, [2014-05-27T13:56:01.533743 #30138]  INFO -- : 0:  rdoc (3.12.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rdoc-3.12.2.gemspec
+I, [2014-05-27T13:56:01.534001 #30138]  INFO -- : 0:  thor (0.18.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/thor-0.18.1.gemspec
+I, [2014-05-27T13:56:01.534259 #30138]  INFO -- : 0:  railties (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/railties-3.2.13.gemspec
+I, [2014-05-27T13:56:01.534562 #30138]  INFO -- : 0:  coffee-rails (3.2.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-rails-3.2.2.gemspec
+I, [2014-05-27T13:56:01.534839 #30138]  INFO -- : 0:  sass (3.3.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sass-3.3.0.gemspec
+I, [2014-05-27T13:56:01.535092 #30138]  INFO -- : 0:  foundation-rails (5.2.0.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/foundation-rails-5.2.0.0.gemspec
+I, [2014-05-27T13:56:01.535353 #30138]  INFO -- : 0:  jquery-rails (3.1.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-05-27T13:56:01.535652 #30138]  INFO -- : 0:  pdfkit (0.6.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/pdfkit-0.6.1.gemspec
+I, [2014-05-27T13:56:01.535898 #30138]  INFO -- : 0:  bundler (1.5.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-05-27T13:56:01.536174 #30138]  INFO -- : 0:  rails (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rails-3.2.13.gemspec
+I, [2014-05-27T13:56:01.536444 #30138]  INFO -- : 0:  sass-rails (3.2.6) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sass-rails-3.2.6.gemspec
+I, [2014-05-27T13:56:01.536706 #30138]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sqlite3-1.3.9.gemspec
+I, [2014-05-27T13:56:01.536971 #30138]  INFO -- : 0:  uglifier (2.4.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/uglifier-2.4.0.gemspec
+I, [2014-05-27T13:56:01.537222 #30138]  INFO -- : 0:  wkhtmltopdf-binary (0.9.9.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/wkhtmltopdf-binary-0.9.9.1.gemspec
+I, [2014-05-27T14:17:44.692283 #30228]  INFO -- : 0:  rake (10.1.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rake-10.1.1.gemspec
+I, [2014-05-27T14:17:44.692651 #30228]  INFO -- : 0:  i18n (0.6.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/i18n-0.6.1.gemspec
+I, [2014-05-27T14:17:44.692959 #30228]  INFO -- : 0:  multi_json (1.9.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/multi_json-1.9.0.gemspec
+I, [2014-05-27T14:17:44.693253 #30228]  INFO -- : 0:  activesupport (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activesupport-3.2.13.gemspec
+I, [2014-05-27T14:17:44.693536 #30228]  INFO -- : 0:  builder (3.0.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/builder-3.0.4.gemspec
+I, [2014-05-27T14:17:44.693827 #30228]  INFO -- : 0:  activemodel (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activemodel-3.2.13.gemspec
+I, [2014-05-27T14:17:44.694106 #30228]  INFO -- : 0:  erubis (2.7.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/erubis-2.7.0.gemspec
+I, [2014-05-27T14:17:44.694367 #30228]  INFO -- : 0:  journey (1.0.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/journey-1.0.4.gemspec
+I, [2014-05-27T14:17:44.694639 #30228]  INFO -- : 0:  rack (1.4.5) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-1.4.5.gemspec
+I, [2014-05-27T14:17:44.694910 #30228]  INFO -- : 0:  rack-cache (1.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-cache-1.2.gemspec
+I, [2014-05-27T14:17:44.695178 #30228]  INFO -- : 0:  rack-test (0.6.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-test-0.6.2.gemspec
+I, [2014-05-27T14:17:44.695439 #30228]  INFO -- : 0:  hike (1.2.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/hike-1.2.3.gemspec
+I, [2014-05-27T14:17:44.695700 #30228]  INFO -- : 0:  tilt (1.4.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/tilt-1.4.1.gemspec
+I, [2014-05-27T14:17:44.695963 #30228]  INFO -- : 0:  sprockets (2.2.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sprockets-2.2.2.gemspec
+I, [2014-05-27T14:17:44.696225 #30228]  INFO -- : 0:  actionpack (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/actionpack-3.2.13.gemspec
+I, [2014-05-27T14:17:44.696490 #30228]  INFO -- : 0:  mime-types (1.25.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/mime-types-1.25.1.gemspec
+I, [2014-05-27T14:17:44.696750 #30228]  INFO -- : 0:  polyglot (0.3.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/polyglot-0.3.4.gemspec
+I, [2014-05-27T14:17:44.697013 #30228]  INFO -- : 0:  treetop (1.4.15) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/treetop-1.4.15.gemspec
+I, [2014-05-27T14:17:44.697276 #30228]  INFO -- : 0:  mail (2.5.4) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/mail-2.5.4.gemspec
+I, [2014-05-27T14:17:44.697545 #30228]  INFO -- : 0:  actionmailer (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/actionmailer-3.2.13.gemspec
+I, [2014-05-27T14:17:44.697808 #30228]  INFO -- : 0:  arel (3.0.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/arel-3.0.3.gemspec
+I, [2014-05-27T14:17:44.698068 #30228]  INFO -- : 0:  tzinfo (0.3.39) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/tzinfo-0.3.39.gemspec
+I, [2014-05-27T14:17:44.698343 #30228]  INFO -- : 0:  activerecord (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activerecord-3.2.13.gemspec
+I, [2014-05-27T14:17:44.698625 #30228]  INFO -- : 0:  activeresource (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/activeresource-3.2.13.gemspec
+I, [2014-05-27T14:17:44.698886 #30228]  INFO -- : 0:  bcrypt-ruby (3.0.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/bcrypt-ruby-3.0.1.gemspec
+I, [2014-05-27T14:17:44.699156 #30228]  INFO -- : 0:  coffee-script-source (1.7.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-script-source-1.7.0.gemspec
+I, [2014-05-27T14:17:44.699419 #30228]  INFO -- : 0:  execjs (2.0.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/execjs-2.0.2.gemspec
+I, [2014-05-27T14:17:44.699678 #30228]  INFO -- : 0:  coffee-script (2.2.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-script-2.2.0.gemspec
+I, [2014-05-27T14:17:44.699943 #30228]  INFO -- : 0:  rack-ssl (1.3.3) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rack-ssl-1.3.3.gemspec
+I, [2014-05-27T14:17:44.700211 #30228]  INFO -- : 0:  json (1.8.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/json-1.8.1.gemspec
+I, [2014-05-27T14:17:44.700474 #30228]  INFO -- : 0:  rdoc (3.12.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rdoc-3.12.2.gemspec
+I, [2014-05-27T14:17:44.700756 #30228]  INFO -- : 0:  thor (0.18.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/thor-0.18.1.gemspec
+I, [2014-05-27T14:17:44.701017 #30228]  INFO -- : 0:  railties (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/railties-3.2.13.gemspec
+I, [2014-05-27T14:17:44.701272 #30228]  INFO -- : 0:  coffee-rails (3.2.2) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/coffee-rails-3.2.2.gemspec
+I, [2014-05-27T14:17:44.701536 #30228]  INFO -- : 0:  sass (3.3.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sass-3.3.0.gemspec
+I, [2014-05-27T14:17:44.701793 #30228]  INFO -- : 0:  foundation-rails (5.2.0.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/foundation-rails-5.2.0.0.gemspec
+I, [2014-05-27T14:17:44.702058 #30228]  INFO -- : 0:  jquery-rails (3.1.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/jquery-rails-3.1.0.gemspec
+I, [2014-05-27T14:17:44.702312 #30228]  INFO -- : 0:  pdfkit (0.6.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/pdfkit-0.6.1.gemspec
+I, [2014-05-27T14:17:44.702556 #30228]  INFO -- : 0:  bundler (1.5.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@global/specifications/bundler-1.5.1.gemspec
+I, [2014-05-27T14:17:44.702819 #30228]  INFO -- : 0:  rails (3.2.13) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/rails-3.2.13.gemspec
+I, [2014-05-27T14:17:44.703095 #30228]  INFO -- : 0:  sass-rails (3.2.6) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sass-rails-3.2.6.gemspec
+I, [2014-05-27T14:17:44.703373 #30228]  INFO -- : 0:  sqlite3 (1.3.9) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/sqlite3-1.3.9.gemspec
+I, [2014-05-27T14:17:44.703663 #30228]  INFO -- : 0:  uglifier (2.4.0) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/uglifier-2.4.0.gemspec
+I, [2014-05-27T14:17:44.703960 #30228]  INFO -- : 0:  wkhtmltopdf-binary (0.9.9.1) from /Users/victorortiz/.rvm/gems/ruby-2.0.0-p353@rails3216/specifications/wkhtmltopdf-binary-0.9.9.1.gemspec
