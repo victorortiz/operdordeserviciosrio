@@ -5,7 +5,7 @@ class Notificacion < ActionMailer::Base
   
     @usuario = user
 
-    mail(to: @usuario.apodo, subject: 'Bienvenido a Blog')
+    mail(to: @usuario.apodo, subject: 'Bienvenido al buzón de sugerencias')
   end
 
 end
